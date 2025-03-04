@@ -32,4 +32,4 @@
 
 ## 📊 Most Used Languages
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BERRAAPCİN&layout=compact&theme=dark)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berraapcin&layout=compact&theme=dark)
