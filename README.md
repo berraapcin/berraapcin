@@ -12,5 +12,9 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=berraapcin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@beewunicorn/30-nites-of-code)  
+  ![@beewunicorn #30NitesOfCode](https://www.codedex.io/api/petStatus?user=beewunicorn)
+
 
 
