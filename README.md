@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Berra</h1>
-<h3 align="center"> A passionate Software Developer </h3>
 
 # 💫 About Me:
 🌱 I’m currently learning C# .Net<br>📫 How to reach me berraapcn@gmail.com<br>📄 Know about my experiences (https://www.linkedin.com/in/berra-apcin-27451a250/)<br>
